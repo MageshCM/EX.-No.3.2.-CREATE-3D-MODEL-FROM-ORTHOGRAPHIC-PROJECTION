@@ -1,5 +1,6 @@
 # EX No.3.2. CREATE 3D MODEL FROM ORTHOGRAPHIC PROJECTION
 ## DATE:
+25/03/2024
 ## AIM:
 To create a 3D model from given orthographic projection.
 
@@ -42,6 +43,8 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198823540-38a1b79a-1f68-4876-add9-adf59b98b386.png)
 
 ## OUTPUT:
+![WhatsApp Image 2024-03-25 at 11 48 19_c9a99474](https://github.com/MageshCM/EX.-No.3.2.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/164765537/03e268c7-d2d6-4376-9124-cd76d08d91bb)
+
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
